@@ -1,8 +1,8 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Professional Full Stack Developer.</h1>
-<h3 align="left">I have been developing, architecting, and leading software projects for well over a decade.
-In addition to a rich full-stack skill set, my business acumen and ability to communicate effectively with clients and
-stakeholders regardless of their technical knowledge set me apart from the rest. Though focused on tech leadership for the
-last few years, I still enjoys developing early-stage prototypes and products.</h3>
+<h3 align="left">I am a highly motivated software engineer with a 6 years of experience working in teams of all sizes. I am adept at joining
+projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of
+concurrent users. In addition to my technical skills, I can also provide valuable business insight during the development
+stage.</h3>
 
 ## ⚡ Technologies
 
