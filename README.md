@@ -1,8 +1,13 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Professional Web & Mobile Developer.</h1>
-<h3 align="left">I am a highly motivated software engineer with 8 years of experience working in teams of all sizes. I am adept at joining
-projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of
-concurrent users. In addition to my technical skills, I can also provide valuable business insight during the development
-stage.</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Professional Web / Mobile / Blockchain / DevOps Developer.</h1>
+<h3 align="left">As a versatile developer with 8 years of experience, I specialize in Web, Mobile, Blockchain, and DevOps development. With a strong foundation in web technologies such as HTML, CSS, and JavaScript, I have the expertise to create robust and visually appealing web applications. I am experienced in frameworks like React, Angular, and Vue.js, allowing me to build responsive and user-friendly interfaces. <br>
+ 
+In the mobile realm, I excel in developing applications for both iOS and Android platforms. Proficient in languages such as Swift, Kotlin, and JavaScript, I have a deep understanding of mobile frameworks like React Native and Flutter. I leverage these technologies to create native and cross-platform mobile apps that deliver exceptional user experiences.  <br>
+ 
+Furthermore, I possess a solid understanding of blockchain technology and its applications. With expertise in languages like Solidity and tools like Truffle and Web3.js, I am capable of developing decentralized applications (DApps) and smart contracts on various blockchain platforms.  <br>
+ 
+In addition to my web and mobile skills, I am well-versed in DevOps practices. I have hands-on experience with tools like Docker, Kubernetes, Jenkins, and AWS, enabling me to build scalable and automated deployment pipelines. I am proficient in infrastructure-as-code frameworks like Terraform and possess strong troubleshooting and problem-solving abilities.  <br>
+ 
+With my multidisciplinary expertise, I bring a holistic approach to development projects. I am committed to delivering high-quality solutions that meet client requirements and industry best practices. My adaptability, attention to detail, and continuous learning mindset make me a valuable asset to any development team.</h3>
 
 ## ⚡ Technologies
 
